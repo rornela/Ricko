@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ricko/static/css/main.1473ee04.css",
-    "main.js": "/ricko/static/js/main.2199ac97.js",
+    "main.js": "/ricko/static/js/main.dee5f841.js",
     "static/js/453.8bdfd06b.chunk.js": "/ricko/static/js/453.8bdfd06b.chunk.js",
     "static/media/cup.png": "/ricko/static/media/cup.06f41270f3043a12de1e.png",
     "static/media/cuppng.png": "/ricko/static/media/cuppng.902a5c224c14e7cfdc07.png",
     "index.html": "/ricko/index.html",
     "main.1473ee04.css.map": "/ricko/static/css/main.1473ee04.css.map",
-    "main.2199ac97.js.map": "/ricko/static/js/main.2199ac97.js.map",
+    "main.dee5f841.js.map": "/ricko/static/js/main.dee5f841.js.map",
     "453.8bdfd06b.chunk.js.map": "/ricko/static/js/453.8bdfd06b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1473ee04.css",
-    "static/js/main.2199ac97.js"
+    "static/js/main.dee5f841.js"
   ]
 }
